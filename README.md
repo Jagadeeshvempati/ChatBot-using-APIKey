@@ -1,5 +1,4 @@
 # ChatBot-using-APIKey
-
 Here's a brief overview of what the script does:
 
 Installs necessary packages (langchain, openai, and chromadb) using pip.
